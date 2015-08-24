@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="nav_item_icon_tint_color">#333</color>
+    <color name="nav_item_text_color">#333</color>
+
+
+    <color name="color_primary">#3F51B5</color>
+    <color name="color_primary_dark">#303F9F</color>
+    <color name="accent">#22B5CD</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="ligth_primary_color">#B2DFDB</color>
+    <color name="segment_color">#B6B6B6</color>
+    <color name="vino">#CB4848</color>
+
+    <color name="gris_fuerte">#A39FA1</color>
+    <color name="gris_claro">#A39FA1</color>
+    <color name="rojo_lucio">#E72850</color>
+    <color name="azul_lucio">#22B5CD</color>
+    <color name="morado_lucio">#3E509F</color>
+
+    <color name="color_facebook">#3b5998</color>
+    <color name="color_facebok_press">#ff334178</color>
+
+    <color name="mdtp_accent_color">#3F51B5</color>
+    <color name="mdtp_accent_color_dark">#303F9F</color>
+
+
+</resources>
